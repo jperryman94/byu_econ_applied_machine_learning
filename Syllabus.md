@@ -3,6 +3,7 @@
 Economics 213R
 
 Professor: Tyler Folkman
+*
 Students can edit the syllabus?
 
 ## Contact Information
